@@ -28,4 +28,3 @@ Este projeto foi desenvolvido utilizando:
 ## 🔗 Repositório e Contato
 
 * **Autor:** Héber Bringel
-* **Repositório:** [https://github.com/Heber-Bringel/catalogo_de_pecas](https://github.com/Heber-Bringel/catalogo_de_pecas)
